@@ -5,8 +5,9 @@
 
 <!-- Typing Effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Yashwant+Mahajan;Java+Full+Stack+Developer+in+Progress;Computer+Science+Student;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Yashwant+Mahajan;Java+Full+Stack+Developer+in+Progress;Professional+Video+Editor;Computer+Science+Student;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
+
 
 ---
 
