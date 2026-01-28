@@ -14,6 +14,7 @@
 💡 I enjoy building **real-world projects** using frontend, backend, and databases.  
 🚀 Currently learning **Java, Spring Boot, MySQL, HTML, CSS, JavaScript**, and core CS concepts.  
 🛠️ I love converting ideas into **working applications** and improving them step by step.
+🎥 i passion is video editing .
 
 **Goal:** Become a skilled **Java Full Stack Developer** and contribute to meaningful software projects.
 
@@ -23,23 +24,23 @@
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-- 💬 Ask me about **Java, Web Development, Git & GitHub**
-- 📫 Reach me at **your-email@gmail.com**
+- 💬 Ask me about **VideoEditing, Web Development, Git & GitHub**
+- 📫 Reach me at **mahajanyashwant522005@gmail.com**
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/in/yashwant-mahajan-161219319/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
-<a href="https://discord.gg/YOUR_DISCORD" target="_blank">
+<!-- <a href="https://discord.gg/YOUR_DISCORD" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"/>
-</a>
-<a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+</a> -->
+<!-- <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
-</a>
+</a> -->
 </p>
 
 ---
